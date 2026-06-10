@@ -1,6 +1,6 @@
-# go-btfs
+# FnOS-btfs
 
-## What is BTFS 4.0?
+## What is BTFS ?
 
 BTFS, as an innovative force in the BitTorrent ecosystem, has not only accelerated the development of distributed file sharing technology, but also taken a leading position in the field of DePIN. DePIN - which stands for Decentralized Physical Infrastructure Network - encourages network participants to jointly invest resources to deploy and maintain a more stable and efficient network infrastructure through a token reward mechanism. Current mainstream public blockchains mostly focus on computational tasks but lack cost-effective, scalable, and high-performing file storage and sharing solutions.
 
